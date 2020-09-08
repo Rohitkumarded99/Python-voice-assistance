@@ -1,0 +1,23 @@
+auther rohit kumar
+modules:-
+1.pyttsx3
+2.SpeechRecognition
+3.wikipedia
+4.webbrowser
+5.googlesearch
+6.selenium
+7.requests
+
+important instructions
+1. change "voices[1]" id 1 or 0 as per your system in line no.20
+2. change r.pause_threshold  &  r.energy_threshold as per your pc in line no. 43 & 44
+--------- or------- read the modules
+3. change the path as per your computer or delete the elif functions from line no.132 to 169 
+  that will not make any error
+    
+
+for any query message me in github
+
+
+
+......thank you.....
